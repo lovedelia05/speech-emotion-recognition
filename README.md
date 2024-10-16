@@ -4,8 +4,8 @@
 This project focuses on Speech Emotion Recognition (SER), which aims to identify human emotions from speech signals. By using machine learning and deep learning techniques, the model classifies emotions such as happiness, sadness, anger, and neutrality based on features extracted from audio files.
 
 # Features
-Audio Preprocessing: Including denoising, normalization, and segmentation.
-Feature Extraction: Using methods such as Mel-Frequency Cepstral Coefficients (MFCC), Linear Predictive Coding (LPC), and Short-Time Fourier Transform (STFT).
+- Audio Preprocessing: Including denoising, normalization, and segmentation.
+- Feature Extraction: Using methods such as Mel-Frequency Cepstral Coefficients (MFCC), Linear Predictive Coding (LPC), and Short-Time Fourier Transform (STFT).
 Modeling: Implemented various machine learning and deep learning models (SVM, CNN, LSTM) for emotion classification.
 Data Augmentation: Enhanced model robustness with techniques like noise injection, time stretching, and pitch shifting.
 Evaluation Metrics: Performance assessed using accuracy, precision, recall, and F1-score.
