@@ -1,5 +1,6 @@
 # speech-emotion-recognition
 
+
 # Overview
 This project focuses on Speech Emotion Recognition (SER), which aims to identify human emotions from speech signals. By using machine learning and deep learning techniques, the model classifies emotions such as happiness, sadness, anger, and neutrality based on features extracted from audio files.
 
